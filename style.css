@@ -1,0 +1,14 @@
+
+
+
+body{
+    background-color: gray;
+}
+
+.correct_answer{
+    background-color: green;
+}
+
+.incorrect_answer{
+    background-color: red;
+}
